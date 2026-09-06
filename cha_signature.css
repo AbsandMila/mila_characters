@@ -1,0 +1,39 @@
+.cha_signa {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+} 
+
+.cha_signa-top {
+  display: flex;
+  flex-direction: column;
+  font-weight: 600;
+} 
+
+.cha_signa sub {
+  line-height: 1.3;
+} 
+
+.cha_signa-mid {
+  display: flex;
+  flex-direction: row;
+  margin: 10px 0px;
+  gap: 5px;
+  align-items: center;
+} 
+
+.cha_signa-mid span {
+  display: flex; 
+  flex-direction: column;
+}
+
+.cha_signa-mid img {
+  height: 40px; 
+  width: 40px; 
+  border: 1px solid var(--outline);
+}
+
+.cha_signa-bot {
+  display: flex; 
+  flex-direction: column;
+}
