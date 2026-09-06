@@ -1,13 +1,10 @@
 .cha_signa {
   display: flex;
   flex-direction: column;
-  width: max-content;
-  margin-left: auto;
   margin-top: 20px;
 } 
 
 .cha_signa-top {
-  margin-left: 0px;
   display: flex;
   flex-direction: column;
   font-weight: 600;
